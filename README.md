@@ -1,6 +1,7 @@
 # Info Instagram
 ## Usage
 This project is forked from https://github.com/EdouardCourty/user-instagram
+
 Use this module in your projet by installing it with `npm install info-instagram`.
 
 Here is a quick example or usage:
